@@ -5,3 +5,4 @@ gem 'pry' # for debugging
 gem 'pg', '~> 0.18.4'
 gem 'activerecord'
 gem 'faker'
+gem 'byebug'
